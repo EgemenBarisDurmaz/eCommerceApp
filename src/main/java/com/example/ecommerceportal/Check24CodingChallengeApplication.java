@@ -9,5 +9,4 @@ public class Check24CodingChallengeApplication {
     public static void main(String[] args) {
         SpringApplication.run(Check24CodingChallengeApplication.class, args);
     }
-
 }
